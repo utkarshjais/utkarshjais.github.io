@@ -1,0 +1,16 @@
+body
+{
+background-image:url("st.jpg");
+background-size: cover;
+}
+h1{
+font-size: 30px;
+text-align: center;
+padding: 320px 0px 0px 0px
+}
+.btn-lg
+{
+border-radius: 50px;
+background-color:#F05F44;
+margin:180px 400px 60px 580px;
+}
